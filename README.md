@@ -1,1 +1,1 @@
-"# EJS-Project" 
+"# EJS" 
